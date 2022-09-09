@@ -1,0 +1,7 @@
+# IDE generated files
+.vscode/
+.vs/
+
+# Output folders
+bin/
+obj/
